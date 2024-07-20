@@ -35,12 +35,6 @@ There are three different user types in this app: User, Restaurant, and Driver.
   - Send GPS location.
   - Complete orders.
 
-## Screenshots
-
-![Home Screen](images/home_screen.png)
-![Restaurant List](images/restaurant_list.png)
-![Order Tracking](images/order_tracking.png)
-
 ## Installation
 
 1. **Clone the repository:**
